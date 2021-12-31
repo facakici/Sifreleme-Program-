@@ -1,0 +1,23 @@
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\SPN_16_Sifreleme.Properties.Resources.resources
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\SPN-16 Sifreleme.exe
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\SPN-16 Sifreleme.pdb
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\bin\Debug\SPN-16 Sifreleme.exe.config
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\bin\Debug\SPN-16 Sifreleme.exe
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\bin\Debug\SPN-16 Sifreleme.pdb
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\SPN-16 Sifreleme.exe.config
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\SPN-16 Sifreleme.exe
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\SPN-16 Sifreleme.pdb
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\SPN-16 Sifreleme.exe
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\SPN-16 Sifreleme.pdb
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\SPN_16_Sifreleme.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\SPN_16_Sifreleme.Form2.resources
+C:\Users\Lenovo\Desktop\Yazılım Sınama\SifreliMesaj\Encryption\bin\Debug\SPN-16 Sifreleme.exe.config
+C:\Users\Lenovo\Desktop\Yazılım Sınama\SifreliMesaj\Encryption\obj\Debug\SPN-16 Sifreleme.exe
+C:\Users\Lenovo\Desktop\Yazılım Sınama\SifreliMesaj\Encryption\obj\Debug\SPN-16 Sifreleme.pdb
